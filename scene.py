@@ -43,7 +43,11 @@ class CreateDoors(Scene):
                   FadeIn(car))
         self.wait(1)
 
-        self.play(doors.animate.shift(UP*0.5),
-                  FadeOut(goat1),
-                  FadeOut(goat2),
-                  FadeOut(car))
+
+
+                            
+
+        
+        
+
+
